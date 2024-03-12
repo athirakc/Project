@@ -4,7 +4,8 @@
 <h1>Features</h1>
 <ul>
 <li><b>Home Page:</b> Provides an overview of the application and links to explore different property types.</li>
-<li><b>Property Pages:</b> Dedicated pages for each property type, including apartments, houses, lands, and buildings, where users can view available properties.</li>
+<li><b>Property Page:</b> Dedicated pages for each property type, including apartments, houses, lands, and buildings, where users can view available properties.</li>
+<li><b>About Page:</b> Provides information about the application</li>
 <li><b>Sign Up/Login:</b> Users can sign up for an account or log in to access the application</li>
 </ul>
 <h1>Technologies Used</h1>
